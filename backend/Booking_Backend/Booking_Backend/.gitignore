@@ -1,0 +1,26 @@
+# Python virtual environments
+venv/
+backend/venv/
+backend/Booking_Backend/venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node (for your frontend)
+node_modules/
+.env
+
+# Frontend build output
+build/
+dist/
+
+# Database
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
